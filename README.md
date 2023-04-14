@@ -14,7 +14,7 @@ Sick of staring at boring SQLite table results in the terminal? Give your eyes a
 ```make```
 
 ### Usage
-- Start the program by running: ./draw <database-file-path> <query>
+- Start the program by running: ./draw 'database-file-path' 'query'
 
 ### Result
 ```
